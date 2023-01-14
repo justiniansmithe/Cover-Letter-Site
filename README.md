@@ -1,3 +1,5 @@
-# cv
+# Cover Letter
 
-My Porfolio Site
+This is the README file. 
+
+Nice to meet you!
