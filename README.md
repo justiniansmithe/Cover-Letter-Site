@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+
+```html
   <head>
     <meta charset="UTF-8">
   </head>
@@ -23,4 +23,4 @@ Best regards,
 Justin
     
   </body>
-</html>
+```html
