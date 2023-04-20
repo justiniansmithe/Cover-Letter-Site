@@ -12,11 +12,11 @@ Hi there, and thanks for visiting my GitHub page! My name is Justin, and I'm a p
 This project was a challenging and rewarding experience for me, as I love working with statistics and data analysis. Using Monte Carlo simulation, I was able to generate impressive results and insights for a variety of scenarios, including Bitcoin future price forecasts, by averaging four iterations.
     
     
-    # Triple EMA Crossover Strategy in Pine Script v5
+    2.) Triple EMA Crossover Strategy in Pine Script v5
 My Triple EMA Crossover Strategy in TradingView is the result of months of backtesting and optimization. Using brute force methods, I was able to identify the most profitable settings for the strategy, resulting in a profit factor of over 7.0.
     
 
-    # Blackjack
+    3.) Blackjack
 This project was a fun and engaging way to explore my programming skills. I developed a simple blackjack game using Python, and it was a great opportunity to experiment with different coding strategies and learn more about probability.
 
     
