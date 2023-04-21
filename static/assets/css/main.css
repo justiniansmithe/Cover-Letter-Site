@@ -854,3 +854,52 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+
+
+
+/* Styles for screens up to 600px wide */
+@media only screen and (max-width: 600px) {
+  /* Set a max-width for images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Adjust the font size for better readability */
+  body {
+    font-size: 16px;
+  }
+}
+
+/* Styles for screens between 600px and 800px wide */
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+  /* Set a max-width for images */
+  img {
+    max-width: 90%;
+    height: auto;
+  }
+}
+
+/* Styles for screens between 800px and 1000px wide */
+@media only screen and (min-width: 800px) and (max-width: 1000px) {
+  /* Set a max-width for images */
+  img {
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+/* Styles for screens between 1000px and 1100px wide */
+@media only screen and (min-width: 1000px) and (max-width: 1100px) {
+  /* Set a max-width for images */
+  img {
+    max-width: 70%;
+    height: auto;
+  }
+}
+
+/* Styles for screens between 1100px and 1200px wide */
+@media only screen and (min-width: 1100px) and (max-width: 1200px) {
+  /* Set a max-width for images */
+ 
