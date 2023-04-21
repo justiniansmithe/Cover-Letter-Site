@@ -921,7 +921,7 @@
   
   /* Adjust background size and position for wider screens */
   body {
-    background-size: 120%;
+    background-size: 180%;
     background-position: center top;
   }
 }
