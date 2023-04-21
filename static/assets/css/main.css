@@ -905,19 +905,6 @@
  
 
 	
-/* Custom styles for screens wider than 1200px */
-@media only screen and (min-width: 1200px) {
-  /* Set a max-width for the main content area */
-  .content {
-    max-width: 960px; /* Adjust the max-width to your desired size */
-    margin: 0 auto;
-  }
 
-  /* Set a max-width for images */
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-}
 
 	
